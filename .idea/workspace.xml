@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c928cc7-cdda-4f8e-ae1e-34d273331364" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Forex/forex-notes/images/Annotation 2020-04-14 132656.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forex/forex-notes" beforeDir="false" afterPath="$PROJECT_DIR$/Forex/forex-notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forex/forex-notes/bobProctor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Forex/forex-notes/bobProctor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forex/forex-notes/instructors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Forex/forex-notes/instructors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goals" beforeDir="false" afterPath="$PROJECT_DIR$/goals" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goals/online-orders.md" beforeDir="false" afterPath="$PROJECT_DIR$/goals/online-orders.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c8nX4SrBVtDJ2kl0kjghlcUpIP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c928cc7-cdda-4f8e-ae1e-34d273331364" name="Default Changelist" comment="" />
+      <created>1589919123848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589919123848</updated>
+      <workItem from="1589919127624" duration="5000" />
+    </task>
+    <servers />
+  </component>
+</project>
