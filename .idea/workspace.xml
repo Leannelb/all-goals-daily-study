@@ -7,13 +7,16 @@
       <change beforePath="$PROJECT_DIR$/Forex/forex-notes/bobProctor.md" beforeDir="false" afterPath="$PROJECT_DIR$/Forex/forex-notes/bobProctor.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Forex/forex-notes/instructors.md" beforeDir="false" afterPath="$PROJECT_DIR$/Forex/forex-notes/instructors.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/goals" beforeDir="false" afterPath="$PROJECT_DIR$/goals" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goals/online-orders.md" beforeDir="false" afterPath="$PROJECT_DIR$/goals/online-orders.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goals/goal-timetable.md" beforeDir="false" afterPath="$PROJECT_DIR$/goals/goal-timetable.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1c8nX4SrBVtDJ2kl0kjghlcUpIP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -43,7 +46,22 @@
       <option name="presentableId" value="Default" />
       <updated>1589919123848</updated>
       <workItem from="1589919127624" duration="5000" />
+      <workItem from="1590243883190" duration="30000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
