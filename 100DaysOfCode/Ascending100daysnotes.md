@@ -3,10 +3,8 @@ By Leanne | Frontend Masters
 
 - to view  Open Preview (Ctrl+Shift+V) 
 Day 56
-Following maxes tutorial
-- trying to connect to a firebase backend to pull our meals from a database instead of hard coding dummy data into our applicaton
-- by the end of the video we resolved the bug - it was pretty simple in the end but did take the hour to find it.
-- a simple incorrect call to the api caused all the errors we were seeing.
+Following maxes tutorial again to continue to impment our custom hook we made for form valadation
+- tried to connect to a firebase backend to pull our meals from a database instead of hard coding dummy data into our applicaton
 
 Day 55
 Following maxes tutorial again to continue to impment our custom hook we made for form valadation
