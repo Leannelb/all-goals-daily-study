@@ -1,6 +1,13 @@
 # 100 days of code days
 By Leanne | Frontend Masters
 
+## Day 61
+Adding items to our cart with clickHandlers
+Adding add and remove methods to add and remove items from the cart
+Fixing errors
+Using reacts built in use context
+adding animation on the cart button when we add an item to the cart - exciting! 
+
 Day 57
 Building out meals application & retrieved the meals from the Firebase backend
 Motivation & chit chat - good ol' Lillys back at it again, I love the chat's with you guys!
