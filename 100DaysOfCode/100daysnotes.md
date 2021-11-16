@@ -1,7 +1,12 @@
 # 100 days of code days
 By Leanne | Frontend Masters
 
-- to view  Open Preview (Ctrl+Shift+V) 
+Day 57
+Building out meals application & retrieved the meals from the Firebase backend
+Motivation & chit chat - good ol' Lillys back at it again, I love the chat's with you guys!
+We also discussed 1. useEffect 2. Asynchronous functions 3. Errors & error handling 4. Try & catch blocks
+
+
 Day 56
 Following maxes tutorial
 - trying to connect to a firebase backend to pull our meals from a database instead of hard coding dummy data into our applicaton
