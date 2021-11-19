@@ -1,5 +1,14 @@
 # 100 days of code days
 By Leanne | Frontend Masters
+## 
+## 63??? 
+- MENTION - Update required when video is complete for the users ability to circumnavagate the UI validation when submitting to the server - hense server side valadtion is a must!
+## Day 58
+of #100daysofcode. Today I'm building out the meals application, using createPortal and useContext see below:
+1. createPortal to create a modal in react
+2. useContext to manage the state of the cart across the application.
+3. click handlers to handle what will happen when an item is clicked
+4. Handling passing of props from component to component
 
 ## Day 61
 Adding items to our cart with clickHandlers
@@ -7,6 +16,60 @@ Adding add and remove methods to add and remove items from the cart
 Fixing errors
 Using reacts built in use context
 adding animation on the cart button when we add an item to the cart - exciting! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Day 57
 Building out meals application & retrieved the meals from the Firebase backend
