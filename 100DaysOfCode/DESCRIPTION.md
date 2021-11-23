@@ -1,3 +1,6 @@
+
+
+
 /*****---------------------------------------------------------------------------------------------------*****/
 
 If the visual isn't so clear, hover over the video. Then go to the settings cog - like a wheel - in the bottom left of the video display. Then Select 'Quality' . Then change the selection to 1080p60HD
