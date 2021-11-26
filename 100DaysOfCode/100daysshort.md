@@ -180,7 +180,28 @@ Day 63 today:
 7. Lot's of general chitchat & singing as always.
 
 
+## D65
 
+## D66
 
+## D67
+
+## D68
+
+## D69
+Sean Wassel-
+**not sure if its here but wherever we start by importing react from react - supplement maxes video here.**
+## D70
+Sean Wassel-
+## D71
+Sean Wassel-
+1. Render components conditionally
+2. Display a list (via a .map() function) & extract ListItems into their own component
+3. Handle clicks and other events
+4. Style React components
+**chance for supplementation here of some of maxes styling stuff**
+
+## D72 
+Sean Wassel - Learn React for modern web applications
 
 
